@@ -9,8 +9,6 @@ None - User did not take any action on a habit for a day
 
 # Getting Started with Create React App
 
-# Hosted Link: https://habit-tracker-avinash.onrender.com/
-
 ## Available Scripts
 
 In the project directory, you can run:
