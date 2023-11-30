@@ -1,6 +1,13 @@
-# Getting Started with Create React App
+# Features of the application
+Add multiple habits to track like reading a book, going to the gym etc
+Track each habit everyday. These are the 3 statuses of a habit:
+Done - Mark the habit as done for a day
+Not done - Mark the habit as not done for a day
+None - User did not take any action on a habit for a day
 
-This project was bootstrapped with [Create React App](https://github.com/Avinash8225048544/habit-tracker).
+
+
+# Getting Started with Create React App
 
 # Hosted Link: https://habit-tracker-avinash.onrender.com/
 
